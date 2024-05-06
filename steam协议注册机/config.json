@@ -1,0 +1,8 @@
+{
+    "proxy": "PROXIES_FILE_OR_PROXY_HERE",
+    "proxy_type": "http",
+    "threads": 0,
+    "capmonster": "4164871cabd742f98e2ff486c4c76437341639",
+    "save_file": "accounts.txt",
+    "emails_file": "emails.txt"
+}
